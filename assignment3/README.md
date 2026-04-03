@@ -1,6 +1,6 @@
 # Code for assignment 3 for the Analyzing Data course
 
-This repository contains the code that genre classification using `ministral-3:14b` [Assignment 3.ipynb](https://github.com/tijn-donners/analyzing_data_assignments/blob/master/assignment3/Assignment_3.ipynb)
+This repository contains the code that genre classification using `ministral-3:14b` [Assignment 3.ipynb](https://github.com/tijn-donners/analyzing_data_assignments/blob/master/assignment3/Assignment%203.ipynb)
 
 `/data` contains the data used in `Assignment 3.ipynb`
 
